@@ -23,7 +23,7 @@ export default function Home() {
           accusantium repellat hic nesciunt itaque minima quas atque possimus.
           Necessitatibus.
         </p>
-        <Link href="/ninjas">
+        <Link href="/members">
           <a className={styles.btn}>See Members</a>
         </Link>
       </div>
